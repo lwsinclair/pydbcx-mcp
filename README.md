@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jdbcx-pydbcx-mcp-badge.png)](https://mseep.ai/app/jdbcx-pydbcx-mcp)
+
 # JDBCX MCP Server
 
 pydbcx-mcp is a Python implementation of MCP server for enabling communication with diverse data sources via JDBCX server.
